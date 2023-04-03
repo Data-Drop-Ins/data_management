@@ -36,9 +36,9 @@ To get the most out of Zotero, it is recommended that you create an [account](ht
 
 ## Zotero Groups
 
-Zotero’s sharing ethos is reflected in its groups function. Groups allow you to create bibliographies that can be shared with other people in your team, either for teaching or joint research projects. Some groups are public, and can be shared [globally](https://www.zotero.org/search/type/group). Try searching for a topic, such as ‘digital pedagogy’, or something you are interested in. You might find a group that interests you. Alternatively, you can search for people whose work might interest you.
+Zotero’s sharing ethos is reflected in its groups function. Groups allow you to create bibliographies that can be shared with other people in your team, either for teaching or joint research projects. Some groups are public, and can be shared [globally](https://www.zotero.org/search/type/group). You might find a group that interests you.
 
-For this exercise, we will use the group 'uea_test_group' for which you will receive a invitation and link to join before the session.
+For this exercise, we will use the group 'uea_test_group', for which you will receive a invitation and link to join before the session.
 
 ### Creating a Zotero Group
 
