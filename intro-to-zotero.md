@@ -54,9 +54,7 @@ Alternatively, synchronising your libraries with the Zotero desktop application 
 
 ### Joining a Zotero Group
 
-For this exercise, you should have received an invitation to join the 'uea_test_group' Zotero Group. 
-
-Navigate to the relevant library, and then use ‘File’ > ‘Import’ to import a bibliographic file of your choice.
+For this exercise, you should have received an invitation to join the 'uea_test_group' Zotero Group. Navigate to the relevant library, and then use ‘File’ > ‘Import’ to import a bibliographic file of your choice (see section below for further details).
 
 ## Importing References into the Zotero Client
 
@@ -80,7 +78,7 @@ The layout of Zotero is very similar to EndNote, so the interface will be quite 
 
 The import process from a .ris file is virtually identical to EndNote. Simply go to ‘File’ > ‘Import’ and locate the file on your device. Zotero uses the designation ‘Library’ for the structure of the reference database, and the folders are called ‘collections’. As mentioned above, Zotero favours sharing libraries with other researchers, so you will see that as well as a local library folder structure, you may have a ‘group library’ structure as well. This allows you to share your references with others.
 
-If you would like to import an example file for use in the following section, you can download and use the file ['doctoral_education.ris'](/doctoral_education.ris).
+If you would like to import an example file for use in the following section, you can download and use the file 'doctoral_education.ris', which is available in the relevant Learning Materials folder on the Blackboard site.
 
 ## Checking and Editing References
 
