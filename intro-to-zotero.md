@@ -141,3 +141,8 @@ All scholarly texts will require some form of reference list, or bibliography. I
 In your Word document, find a line to insert your reference list. Then click 'Add/Edit Bibliography'.
 
 When you insert or delete citations in your document, the reference list will update to reflect these changes automatically.
+
+## Further Reading
+- [Zotero Quick Start Guide](https://www.zotero.org/support/quick_start_guide)
+- [UEA Library Digital Toolkit](https://my.uea.ac.uk/library/study-support/digital-toolkit)
+- [CHASE Virtual Learning Environment module 'Using Zotero to Manage Your Bibliographic References'](https://www.chasevle.org.uk/modules/zotero/)
