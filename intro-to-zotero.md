@@ -1,5 +1,7 @@
 # Introduction to Zotero
 
+This workbook is designed to accompany the Personal and Professional Development module HUMPR027 - Referencing Without Tears.
+
 ## Working with References
 In an extended document, such as a PhD thesis, the number of unique works referred to or cited can easily reach 1,000 items. Each of these items may be cited on more than one occasion, and some texts frequently throughout. Managing the sequence of references, particularly in footnotes, where abbreviated titles might be used for subsequent citation, can easily lead to confusion and errors, even in single sections of the thesis.
 
@@ -28,14 +30,59 @@ Zotero and Mendeley are superficially very similar to EndNote. They are both rep
 
 Although Zotero has an open source [ethos](https://github.com/zotero) and a strong community of users, there are limitations to the amount of data that you can store (300MB), after which you will need to pay for an [upgrade](https://www.zotero.org/storage?id=storage).
 
-## Importing References
+### Creating a Zotero Account
+
+To get the most out of Zotero, it is recommended that you create an [account](https://www.zotero.org/user/register). This allows users to take advantage of the online storage option, and access Zotero Groups.
+
+## Zotero Groups
+
+Zotero’s sharing ethos is reflected in its groups function. Groups allow you to create bibliographies that can be shared with other people in your team, either for teaching or joint research projects. Some groups are public, and can be shared [globally](https://www.zotero.org/search/type/group). Try searching for a topic, such as ‘digital pedagogy’, or something you are interested in. You might find a group that interests you. Alternatively, you can search for people whose work might interest you.
+
+For this exercise, we will use the group 'uea_test_group' for which you will receive a invitation and link to join before the session.
+
+### Creating a Zotero Group
+
+When you are logged in, click on the Groups tab, then ‘Create a New Group’.
+
+Zotero provides different privacy settings for Groups. These are ‘Public, Open Membership’, ‘Public, Closed Membership’, and ‘Private Membership’. If you are selective about who you would like to join your group, you might be interested in closed membership, or even private. You will also need to provide a name for your group, so that it can be identified in the Zotero search feature. You may need to be creative with the naming, as group names are unique.
+
+You can also assign file editing permissions to your group, so users can contribute or change records in the bibliographies, or restrict it to just the group administrators. When you are ready, just select ‘Save Settings’.
+
+Records are held in your ‘Group Library’. You can manually add records to the Group Library, as below.
+
+Alternatively, synchronising your libraries with the Zotero desktop application allows you to import and amend records. Just open the Zotero desktop application, which should synchronise your Groups automatically upon start up.
+
+### Joining a Zotero Group
+
+For this exercise, you should have received an invitation to join the 'uea_test_group' Zotero Group. 
+
+Navigate to the relevant library, and then use ‘File’ > ‘Import’ to import a bibliographic file of your choice.
+
+## Importing References into the Zotero Client
+
+### Using the Zotero Connector to Import References
+
+As a lot of research is conducted through a web browser, a lot of reference management software has plugins or connectors that allow a browser to recognise content on a web page that can be formatted as a reference (for instance, a newspaper article or a new book description on a publisher’s website).
+
+The [Zotero Connector](https://www.zotero.org/download/) can be downloaded for different browsers, but was optimized for use with Firefox.
+
+After downloading the connector, you should see a new icon on the toolbar at the top right of your browser. In the example below, clicking on the connector icon allows the browser to identify the publication on the web page.
+
+A notification informs the user that the reference is being saved automatically to Zotero (the desktop application needs to be open at this stage). You might notice that the bibliographic details imported into the fields are inaccurate, so the automatic import is not perfect. However, it you happen across something quickly online, it is a useful way of keeping a record of what you find.
+
+Try opening a web page and importing a reference. Can the Connector recognise the type of item that is imported?
+
+Just like a library catalogue, Zotero acknowledges different types of items in the collection, and distinguishes between journal articles, edited books, conference proceedings and so on. When adding a new item manually or editing an item, you can change the reference type by clicking on an item in the library and then selecting the 'Item Type' field.
 
 ### Importing References from a File
+
 The layout of Zotero is very similar to EndNote, so the interface will be quite familiar to you by now. In the central panel is the list of references, on the right is the reference record, and on the left the list of folders that contain references.
 
 The import process from a .ris file is virtually identical to EndNote. Simply go to ‘File’ > ‘Import’ and locate the file on your device. Zotero uses the designation ‘Library’ for the structure of the reference database, and the folders are called ‘collections’. As mentioned above, Zotero favours sharing libraries with other researchers, so you will see that as well as a local library folder structure, you may have a ‘group library’ structure as well. This allows you to share your references with others.
 
-### Checking and Editing References
+If you would like to import an example file for use in the following section, you can donload and use the file 'doctoral_education.ris'.
+
+## Checking and Editing References
 
 Try searching the ‘Author’ field for works that contain ‘Kelly’. You should find two works by Frances Kelly.
 
@@ -58,20 +105,6 @@ In this case, the field has not been formatted well and some work needs to be do
 Click on the ‘Author’ field in the ‘Reference’ pane on the right. Delete ‘author,’ and ‘Corresponding’ and type in ‘Kiley, Margaret’ on the first line. Leave ‘Mullins, Gerry’ on the second line. 
 
 Zotero registers separate authors on separate lines, so in multi-author works, remember to follow this structure. Look at the second reference on the list, by ‘Ayers’, and you will see a list of five authors.
-
-### Using the Zotero Connector to Import References
-
-As a lot of research is conducted through a web browser, a lot of reference management software has plugins or connectors that allow a browser to recognise content on a web page that can be formatted as a reference (for instance, a newspaper article or a new book description on a publisher’s website).
-
-The [Zotero Connector](https://www.zotero.org/download/) can be downloaded for different browsers, but was optimized for use with Firefox.
-
-After downloading the connector, you should see a new icon on the toolbar at the top right of your browser. In the example below, clicking on the connector icon allows the browser to identify the publication on the web page.
-
-A notification informs the user that the reference is being saved automatically to Zotero (the desktop application needs to be open at this stage). You might notice that the bibliographic details imported into the fields are inaccurate, so the automatic import is not perfect. However, it you happen across something quickly online, it is a useful way of keeping a record of what you find.
-
-Try opening a web page and importing a reference. Can the Connector recognise the type of item that is imported?
-
-Just like a library catalogue, Zotero acknowledges different types of items in the collection, and distinguishes between journal articles, edited books, conference proceedings and so on. When adding a new item manually or editing an item, you can change the reference type by clicking on an item in the library and then selecting the 'Item Type' field.
 
 ## Citations Using Zotero
 
@@ -110,23 +143,3 @@ All scholarly texts will require some form of reference list, or bibliography. I
 In your Word document, find a line to insert your reference list. Then click 'Add/Edit Bibliography'.
 
 When you insert or delete citations in your document, the reference list will update to reflect these changes automatically.
-
-## Zotero Groups
-
-Zotero’s sharing ethos is reflected in its groups function. Groups allow you to create bibliographies that can be shared with other people in your team, either for teaching or joint research projects. Some groups are public, and can be shared [globally](https://www.zotero.org/search/type/group). Try searching for a topic, such as ‘digital pedagogy’, or something you are interested in. You might find a group that interests you.
-
-Alternatively, you can search for people whose work might interest you.
-
-When you are logged in, click on the Groups tab, then ‘Create a New Group’.
-
-Zotero provides different privacy settings for Groups. These are ‘Public, Open Membership’, ‘Public, Closed Membership’, and ‘Private Membership’. If you are selective about who you would like to join your group, you might be interested in closed membership, or even private. You will also need to provide a name for your group, so that it can be identified in the Zotero search feature. You may need to be creative with the naming, as group names are unique.
-
-You can also assign file editing permissions to your group, so users can contribute or change records in the bibliographies, or restrict it to just the group administrators. When you are ready, just select ‘Save Settings’.
-
-Records are held in your ‘Group Library’. You can manually add records to the Group Library, as below.
-
-Alternatively, synchronising your libraries with the Zotero desktop application allows you to import and amend records.
-
-Just open the Zotero desktop application, which should synchronise your Groups automatically upon start up.
-
-Navigate to the relevant library, and then use ‘File’ > ‘Import’ to import a bibliographic file.
