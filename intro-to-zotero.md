@@ -80,7 +80,7 @@ The layout of Zotero is very similar to EndNote, so the interface will be quite 
 
 The import process from a .ris file is virtually identical to EndNote. Simply go to ‘File’ > ‘Import’ and locate the file on your device. Zotero uses the designation ‘Library’ for the structure of the reference database, and the folders are called ‘collections’. As mentioned above, Zotero favours sharing libraries with other researchers, so you will see that as well as a local library folder structure, you may have a ‘group library’ structure as well. This allows you to share your references with others.
 
-If you would like to import an example file for use in the following section, you can donload and use the file 'doctoral_education.ris'.
+If you would like to import an example file for use in the following section, you can download and use the file ['doctoral_education.ris'](/doctoral_education.ris).
 
 ## Checking and Editing References
 
