@@ -63,7 +63,7 @@ Zotero registers separate authors on separate lines, so in multi-author works, r
 
 As a lot of research is conducted through a web browser, a lot of reference management software has plugins or connectors that allow a browser to recognise content on a web page that can be formatted as a reference (for instance, a newspaper article or a new book description on a publisher’s website).
 
-The Zotero Connector (https://www.zotero.org/download/) can be downloaded for different browsers, but was optimized for use with Firefox.
+The [Zotero Connector](https://www.zotero.org/download/) can be downloaded for different browsers, but was optimized for use with Firefox.
 
 After downloading the connector, you should see a new icon on the toolbar at the top right of your browser. In the example below, clicking on the connector icon allows the browser to identify the publication on the web page.
 
@@ -75,7 +75,7 @@ Just like a library catalogue, Zotero acknowledges different types of items in t
 
 ## Citations Using Zotero
 
-Zotero also has a plugin for word processors. For this example, we will use Microsoft Word, but you can also use Zotero with other open source word processors, such as LibreOffice: https://www.zotero.org/support/word_processor_integration
+Zotero also has a [plugin](https://www.zotero.org/support/word_processor_integration) for word processors. For this example, we will use Microsoft Word, but you can also use Zotero with other open source word processors, such as LibreOffice.
 
 Ensure that you have installed the plugin for Word on your device and open a new Word document.
 
@@ -113,7 +113,7 @@ When you insert or delete citations in your document, the reference list will up
 
 ## Zotero Groups
 
-Zotero’s sharing ethos is reflected in its groups function. Groups allow you to create bibliographies that can be shared with other people in your team, either for teaching or joint research projects. Some groups are public, and can be shared globally: https://www.zotero.org/search/type/group. Try searching for a topic, such as ‘digital pedagogy’, or something you are interested in. You might find a group that interests you.
+Zotero’s sharing ethos is reflected in its groups function. Groups allow you to create bibliographies that can be shared with other people in your team, either for teaching or joint research projects. Some groups are public, and can be shared [globally](https://www.zotero.org/search/type/group). Try searching for a topic, such as ‘digital pedagogy’, or something you are interested in. You might find a group that interests you.
 
 Alternatively, you can search for people whose work might interest you.
 
