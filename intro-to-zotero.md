@@ -82,15 +82,42 @@ If you would like to import an example file for use in the following section, yo
 
 ## Checking and Editing References
 
-Try searching the ‘Author’ field for works that contain ‘Kelly’. You should find two works by Frances Kelly.
+In the search box on the top right, serach for works that contain ‘Kelly’. You should find two works by Frances Kelly:
+
+> Kelly, Frances. ‘Seekers after Truth? Images of Postgraduate Research and Researchers in the Twenty-First Century’. Discourse: Studies in the Cultural Politics of Education 33, no. 4 (2012): 517–28.
+
+> Kelly, Frances. The Idea of the PhD: The Doctorate in the Twenty-First-Century Imagination. London: Routledge, 2017.
 
 Select the first item and examine the pane on the right. This pane contains all of the fields in that bibliographic record, even those that do not contain any data. 
 
 You will see some familiar information: the author’s name, the year of publication of the work, the title, and the title of the journal that the work was published in.
 
-Now look for ‘Kiley’ instead of ‘Kelly’. You should find four items. 
+> Item Type 	Book
 
-What do you notice about the first item?
+> Author 	Frances Kelly
+
+> Abstract 	The Idea of the PhD: The doctorate in the twenty-first-century imagination analyses the PhD as it is articulated in diverse areas of contemporary discourse at a time in which the degree is undergoing growth, change and scrutiny worldwide. It considers…
+
+> Date 	2017
+
+> Short Title 	The Idea of the PhD
+
+> Call Number 	On order
+
+> Accessed 	30/04/2017, 01:00:00
+
+> Place 	London
+
+> Publisher 	Routledge
+
+> Date Added 	14/11/2024, 11:30:28
+
+> Modified 	14/11/2024, 11:30:28
+
+
+Now search for ‘Kiley’ instead of ‘Kelly’. You should find four items. 
+
+What do you notice about the item published in 2005?
 
 The ‘Author’ field is a bit unusual. This is what it contains: 
 
@@ -112,9 +139,7 @@ Ensure that you have installed the plugin for Word on your device and open a new
 
 ### Adding Footnotes
 
-Type in some text into the body of the Word document, and add a footnote at the end of the sentence.
-
-In the footer, next to the first footnote, click ‘Add/Edit Citation’. Select the Citation Style when prompted. We will choose ‘Chicago Manual of Style 17th edition (note)’ for this example. Ensure that ‘Display Citations As:’ is set to ‘Footnotes’ and click ‘OK’.
+Type in some text into the body of the Word document, and at the end of the line, in the Zotero tab at on the Word toolbar, click ‘Add/Edit Citation’. Select the Citation Style when prompted. We will choose ‘Chicago Manual of Style 17th edition (note)’ for this example. Ensure that ‘Display Citations As:’ is set to ‘Footnotes’ and click ‘OK’.
 
 Unlike EndNote, which has a search window for references, Zotero uses a floating search box.
 
